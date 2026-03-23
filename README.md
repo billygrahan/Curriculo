@@ -1,39 +1,49 @@
-# data-science-tech-resume-template
-[Github Repo](https://github.com/TimmyChan/data-science-tech-resume-template)
-## OFFICIAL PUBLIC OVERLEAF TEMPLATE
+# Currículo - Billy Grahan Alves Rodrigues
 
-https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv
+Currículo profissional em LaTeX para desenvolvedor Back-End/Full Stack.
 
-Applicant tracking system (ATS), especially older ones, do not like PDFs that have links in them. If such an issue arises, simply take the output pdf and print to another pdf, which would be the quickest way to remove "active contents" in the file. 
+## Sobre
 
-Update: *Note that for resumes, best practice is to keep the length to be one page; however, due to popular demand this template was updated to allow for multiple pages.*
+Este é meu currículo profissional desenvolvido em LaTeX, baseado no template [data-science-tech-resume-template](https://github.com/TimmyChan/data-science-tech-resume-template).
 
-Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
-https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
+## Informações de Contato
 
-![cover_p1](./.github/assets/v3/data_science_tech_resume_template-1.png)
-![cover_p2](./.github/assets/v3/data_science_tech_resume_template-2.png)
+- **Nome:** Billy Grahan Alves Rodrigues
+- **Localização:** Fortaleza, Ceará
+- **Email:** billygrahan09@outlook.com
+- **GitHub:** [billygrahan](https://github.com/billygrahan)
+- **LinkedIn:** [billy-grahan-alves-rodrigues](https://www.linkedin.com/in/billy-grahan-alves-rodrigues)
 
-### Files:
+## Estrutura do Projeto
 
-- resume.tex: Main file
-- \_header.tex: header code
-- TLCresume.sty: style file containing formatting details
-- section/objective: https://www.indeed.com/career-advice/resumes-cover-letters/resume-objective-examples
-- section/skills: table of skills
-- section/experience: projects or roles
-- section/education: schools and stuff
-- section/activities: optional, could comment out in resume.tex.
+### Arquivos Principais:
 
-### Editor:
+- `resume.tex`: Arquivo principal do currículo
+- `_header.tex`: Código do cabeçalho com informações de contato
+- `TLCresume.sty`: Arquivo de estilo com detalhes de formatação
 
-https://github.com/TimmyChan
-https://www.linkedin.com/in/timmy-l-chan/
+### Seções:
 
-### Contributors:
+- `sections/objective.tex`: Objetivo profissional
+- `sections/skills.tex`: Habilidades técnicas
+- `sections/experience.tex`: Experiência profissional
+- `sections/education.tex`: Formação acadêmica
+- `sections/certificacoes.tex`: Certificações
 
-- https://github.com/xiazeyu
-- https://github.com/iamgmujtaba
-- https://github.com/alejlatorre
+## Como Compilar
 
-### Last Updated: Oct 19th, 2025
+Para compilar o currículo, use o comando:
+
+```bash
+pdflatex resume.tex
+```
+
+Ou compile através de uma plataforma como [Overleaf](https://www.overleaf.com/).
+
+## Observação sobre ATS
+
+Sistemas de rastreamento de candidatos (ATS), especialmente os mais antigos, podem ter problemas com PDFs que contêm links. Se isso ocorrer, imprima o PDF de saída para outro PDF, que é a maneira mais rápida de remover "conteúdos ativos" do arquivo.
+
+## Última Atualização
+
+Janeiro de 2026

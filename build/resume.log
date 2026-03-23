@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.8)  16 JAN 2026 00:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.8)  23 MAR 2026 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -585,11 +585,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 46.
- (build/resume.out) (build/resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
- (./sections/objective.tex)
+ (./sections/objective.tex
+./sections/objective.tex:18: You can't use `macro parameter character #' in horizontal mode.
+l.18 ...er, cybersecurity e Desenvolvimento Web(C#
+                                                  /.Net).
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 50.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
@@ -632,11 +640,11 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 19.
+(hyperref)                removing `\hfill' on input line 20.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 32.
+(hyperref)                removing `\hfill' on input line 33.
 
 ) (./sections/education.tex) (./sections/activities.tex) (./sections/certificacoes.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
@@ -658,22 +666,29 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: B57E4975CFB79799D2CD412ADB3A3C36;1806.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  E9DF3C829585F3C229D41533169C7F32;1647.
  ) 
 Here is how much of TeX's memory you used:
- 14450 strings out of 474222
- 237356 string characters out of 5748733
- 1952975 words of memory out of 5000000
- 36434 multiletter control sequences out of 15000+600000
+ 14436 strings out of 474222
+ 237164 string characters out of 5748733
+ 1956975 words of memory out of 5000000
+ 36424 multiletter control sequences out of 15000+600000
  636420 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,12n,135p,634b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 140i,12n,135p,330b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on build/resume.pdf (1 page, 178592 bytes).
+Output written on build/resume.pdf (1 page, 179551 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
