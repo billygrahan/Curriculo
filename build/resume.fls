@@ -1,9 +1,9 @@
-PWD /home/billygrahan/curriculo
+PWD /home/billygrahan/Documentos/Curriculo
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/billygrahan/curriculo/resume.tex
+INPUT /home/billygrahan/Documentos/Curriculo/resume.tex
 OUTPUT build/resume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -213,8 +213,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-OUTPUT build/resume.out
+INPUT build/resume.out
+INPUT build/resume.out
+INPUT build/resume.out
+INPUT build/resume.out
 OUTPUT build/resume.pdf
+INPUT build/resume.out
+INPUT build/resume.out
+OUTPUT build/resume.out
 INPUT ./sections/objective.tex
 INPUT ./sections/objective.tex
 INPUT ./sections/objective.tex
