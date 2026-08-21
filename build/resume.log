@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.7.27)  28 JUL 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.8)  20 AUG 2026 21:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/billygrahan/Documentos/Curriculo/resume.tex
-(/home/billygrahan/Documentos/Curriculo/resume.tex
+**/home/billygrahan/curriculo/resume.tex
+(/home/billygrahan/curriculo/resume.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -446,9 +446,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language33). Reported on input line 105.
+(babel)             (\language46). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language33). Reported on input line 108.
+(babel)             (\language46). Reported on input line 108.
 )) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
@@ -608,7 +608,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
 (Font)              scaled to size 10.0pt on input line 2.
 )
-Overfull \hbox (67.97499pt too wide) in paragraph at lines 1--52
+Overfull \hbox (57.97499pt too wide) in paragraph at lines 1--52
 [] 
  []
 
@@ -632,11 +632,11 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 19.
+(hyperref)                removing `\hfill' on input line 20.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 32.
+(hyperref)                removing `\hfill' on input line 33.
 
 ) (./sections/education.tex) (./sections/activities.tex) (./sections/certificacoes.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
@@ -663,14 +663,14 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14450 strings out of 474222
- 237389 string characters out of 5748733
- 1956975 words of memory out of 5000000
+ 237356 string characters out of 5748733
+ 1957975 words of memory out of 5000000
  36434 multiletter control sequences out of 15000+600000
  636420 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,12n,135p,599b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 140i,12n,135p,588b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on build/resume.pdf (1 page, 180665 bytes).
+Output written on build/resume.pdf (1 page, 182257 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

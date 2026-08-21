@@ -1,9 +1,9 @@
-PWD /home/billygrahan/Documentos/Curriculo
+PWD /home/billygrahan/curriculo
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/billygrahan/Documentos/Curriculo/resume.tex
+INPUT /home/billygrahan/curriculo/resume.tex
 OUTPUT build/resume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
