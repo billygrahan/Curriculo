@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1791989516.11817 "/home/billygrahan/Documentos/Curriculo/resume.tex" "build/resume.pdf" "resume" 1791989517.98884 2
+["pdflatex"] 1791992268.50347 "/home/billygrahan/Documentos/Curriculo/resume.tex" "build/resume.pdf" "resume" 1791992270.38765 2
   "/etc/texmf/web2c/texmf.cnf" 1785202709.83878 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/billygrahan/Documentos/Curriculo/resume.tex" 1791931381.16854 2097 ef9ca2f317a243016978a9c2a2523cd0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_4jropk.enc" 1587936753 3267 177411e539fcc6ace86309ff03b22da6 ""
@@ -123,8 +123,8 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1785202780 8216023 8a6cbd2a5ada9f562f90b9897087c76e ""
   "TLCresume.sty" 1785199835.04149 1681 72d5a1d3e90a7e7471d8970298154b97 ""
   "_header.tex" 1791930136.52676 926 dd237222c22a6eed1763ef54fe957701 ""
-  "build/resume.aux" 1791989517.69466 1201 ad222e44b60ce4b9659b86de29e137c2 "pdflatex"
-  "build/resume.out" 1791989517.69667 1424 987f9ded2663fe0cd68f21deef650e3e "pdflatex"
+  "build/resume.aux" 1791992270.10431 1201 ad222e44b60ce4b9659b86de29e137c2 "pdflatex"
+  "build/resume.out" 1791992270.10531 1424 987f9ded2663fe0cd68f21deef650e3e "pdflatex"
   "resume.tex" 1791931381.16854 2097 ef9ca2f317a243016978a9c2a2523cd0 ""
   "sections/activities.tex" 1791985512.09448 663 ec556050d10ec9321a3599641bfd9fed ""
   "sections/certificacoes.tex" 1785208857.2538 1114 3a7011e4f142ea46bc0ef397f55940cb ""
