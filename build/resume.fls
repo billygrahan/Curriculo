@@ -215,8 +215,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-OUTPUT build/resume.out
+INPUT build/resume.out
+INPUT build/resume.out
+INPUT build/resume.out
+INPUT build/resume.out
 OUTPUT build/resume.pdf
+INPUT build/resume.out
+INPUT build/resume.out
+OUTPUT build/resume.out
 INPUT ./sections/objective.tex
 INPUT ./sections/objective.tex
 INPUT ./sections/objective.tex
