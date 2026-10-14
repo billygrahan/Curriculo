@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.7.27)  13 OCT 2026 19:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.7.27)  14 OCT 2026 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -601,7 +601,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 47.
- (build/resume.out) (build/resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
@@ -650,6 +649,14 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 20.
 
+./sections/experience.tex:23: You can't use `macro parameter character #' in horizontal mode.
+l.23 ...nção de APIs REST robustas utilizando C#
+                                                   e .NET, aplicando Clean A...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
 ) (./sections/education.tex) (./sections/activities.tex) (./sections/certificacoes.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 69.
@@ -670,22 +677,29 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 987F9DED2663FE0CD68F21DEEF650E3E;1424.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  987F9DED2663FE0CD68F21DEEF650E3E;1424.
  ) 
 Here is how much of TeX's memory you used:
- 14540 strings out of 474222
- 239339 string characters out of 5748733
- 1954975 words of memory out of 5000000
- 36521 multiletter control sequences out of 15000+600000
+ 14528 strings out of 474222
+ 239181 string characters out of 5748733
+ 1956975 words of memory out of 5000000
+ 36513 multiletter control sequences out of 15000+600000
  636420 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,12n,135p,599b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 140i,12n,135p,341b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on build/resume.pdf (1 page, 182091 bytes).
+Output written on build/resume.pdf (1 page, 182005 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
